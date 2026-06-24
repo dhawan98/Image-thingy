@@ -1,0 +1,71 @@
+phase,phase_label,main_object,object_title,assigned_hits
+NONE,round_01_NONE,quad,Quad,3407
+NONE,round_01_NONE,real_table,Real Table,4272
+NONE,round_01_NONE,real_robot,Real Robot,178
+NONE,round_01_NONE,real_brick,Real Brick,334
+NONE,round_01_NONE,virtual_table,Virtual Table,12264
+NONE,round_01_NONE,virtual_robot,Virtual Robot,1923
+NONE,round_01_NONE,virtual_brick,DT Brick,2562
+P_L,round_02_P_L,quad,Quad,2886
+P_L,round_02_P_L,real_table,Real Table,2682
+P_L,round_02_P_L,real_robot,Real Robot,126
+P_L,round_02_P_L,real_brick,Real Brick,1189
+P_L,round_02_P_L,virtual_table,Virtual Table,21085
+P_L,round_02_P_L,virtual_robot,Virtual Robot,2308
+P_L,round_02_P_L,virtual_brick,DT Brick,1790
+P_M,round_03_P_M,quad,Quad,3685
+P_M,round_03_P_M,real_table,Real Table,3530
+P_M,round_03_P_M,real_robot,Real Robot,171
+P_M,round_03_P_M,real_brick,Real Brick,2820
+P_M,round_03_P_M,virtual_table,Virtual Table,32924
+P_M,round_03_P_M,virtual_robot,Virtual Robot,2751
+P_M,round_03_P_M,virtual_brick,DT Brick,1884
+P_H,round_04_P_H,quad,Quad,3145
+P_H,round_04_P_H,real_table,Real Table,1748
+P_H,round_04_P_H,real_robot,Real Robot,52
+P_H,round_04_P_H,real_brick,Real Brick,3517
+P_H,round_04_P_H,virtual_table,Virtual Table,29720
+P_H,round_04_P_H,virtual_robot,Virtual Robot,1843
+P_H,round_04_P_H,virtual_brick,DT Brick,968
+O_L,round_05_O_L,quad,Quad,6977
+O_L,round_05_O_L,real_table,Real Table,5559
+O_L,round_05_O_L,real_robot,Real Robot,126
+O_L,round_05_O_L,real_brick,Real Brick,716
+O_L,round_05_O_L,virtual_table,Virtual Table,28107
+O_L,round_05_O_L,virtual_robot,Virtual Robot,3921
+O_L,round_05_O_L,virtual_brick,DT Brick,6810
+O_M,round_06_O_M,quad,Quad,5364
+O_M,round_06_O_M,real_table,Real Table,5680
+O_M,round_06_O_M,real_robot,Real Robot,171
+O_M,round_06_O_M,real_brick,Real Brick,651
+O_M,round_06_O_M,virtual_table,Virtual Table,28440
+O_M,round_06_O_M,virtual_robot,Virtual Robot,3783
+O_M,round_06_O_M,virtual_brick,DT Brick,4942
+O_H,round_07_O_H,quad,Quad,7782
+O_H,round_07_O_H,real_table,Real Table,9467
+O_H,round_07_O_H,real_robot,Real Robot,141
+O_H,round_07_O_H,real_brick,Real Brick,1315
+O_H,round_07_O_H,virtual_table,Virtual Table,42589
+O_H,round_07_O_H,virtual_robot,Virtual Robot,6726
+O_H,round_07_O_H,virtual_brick,DT Brick,6354
+PO_L,round_08_PO_L,quad,Quad,11324
+PO_L,round_08_PO_L,real_table,Real Table,11547
+PO_L,round_08_PO_L,real_robot,Real Robot,169
+PO_L,round_08_PO_L,real_brick,Real Brick,3433
+PO_L,round_08_PO_L,virtual_table,Virtual Table,96829
+PO_L,round_08_PO_L,virtual_robot,Virtual Robot,7487
+PO_L,round_08_PO_L,virtual_brick,DT Brick,9760
+PO_M,round_09_PO_M,quad,Quad,12953
+PO_M,round_09_PO_M,real_table,Real Table,8606
+PO_M,round_09_PO_M,real_robot,Real Robot,164
+PO_M,round_09_PO_M,real_brick,Real Brick,8673
+PO_M,round_09_PO_M,virtual_table,Virtual Table,111160
+PO_M,round_09_PO_M,virtual_robot,Virtual Robot,6807
+PO_M,round_09_PO_M,virtual_brick,DT Brick,5701
+PO_H,round_10_PO_H,quad,Quad,14500
+PO_H,round_10_PO_H,real_table,Real Table,8995
+PO_H,round_10_PO_H,real_robot,Real Robot,246
+PO_H,round_10_PO_H,real_brick,Real Brick,14582
+PO_H,round_10_PO_H,virtual_table,Virtual Table,153069
+PO_H,round_10_PO_H,virtual_robot,Virtual Robot,8938
+PO_H,round_10_PO_H,virtual_brick,DT Brick,5097
