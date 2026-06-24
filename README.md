@@ -19,7 +19,6 @@ Raw data and generated outputs are intentionally not committed.
 - `data/annotations/object_layout.json`
 - `scripts/generate_heatmaps.py`
 - `outputs/heatmaps/rounds/`
-- `outputs/debug/`
 - `outputs/metrics/`
 
 ## What is committed
@@ -28,6 +27,9 @@ Raw data and generated outputs are intentionally not committed.
 - Object layout / segmentation configuration
 - Minimal dependency list
 - Reproduction instructions
+- A curated snapshot of the latest corrected outputs:
+  - `outputs/heatmaps/rounds/*.png`
+  - `outputs/metrics/phase_object_counts.csv`
 
 ## What is not committed
 
@@ -36,6 +38,8 @@ Raw data and generated outputs are intentionally not committed.
 - Camera file
 - Generated outputs
 - Zip archives
+- Large derived row-level exports such as `outputs/metrics/classified_hits.csv`
+- Debug previews in `outputs/debug/`
 
 ## Recreate outputs
 

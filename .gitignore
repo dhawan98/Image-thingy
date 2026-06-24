@@ -2,5 +2,17 @@ __pycache__/
 .DS_Store
 tmp_inspect/
 data/raw/
-outputs/
 outputs.zip
+
+# Ignore generated outputs by default, then allow a small curated snapshot.
+outputs/*
+!outputs/heatmaps/
+!outputs/metrics/
+
+outputs/heatmaps/*
+!outputs/heatmaps/rounds/
+outputs/heatmaps/rounds/*
+!outputs/heatmaps/rounds/*.png
+
+outputs/metrics/*
+!outputs/metrics/phase_object_counts.csv
