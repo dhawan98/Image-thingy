@@ -1,0 +1,61 @@
+{
+  "shared_regions": {
+    "quad": {
+      "type": "rect",
+      "x1": 1110,
+      "y1": 510,
+      "x2": 1418,
+      "y2": 812
+    },
+    "real_table": {
+      "type": "ellipse",
+      "center": [1272, 678],
+      "axes": [120, 86]
+    },
+    "real_robot": {
+      "type": "rect",
+      "x1": 1238,
+      "y1": 514,
+      "x2": 1328,
+      "y2": 692
+    },
+    "virtual_table": {
+      "type": "ellipse",
+      "center": [1340, 1232],
+      "axes": [318, 218]
+    },
+    "virtual_robot": {
+      "type": "rect",
+      "x1": 1232,
+      "y1": 802,
+      "x2": 1398,
+      "y2": 1310
+    }
+  },
+  "brick_detection": {
+    "real_brick_roi": {
+      "x1": 1238,
+      "y1": 742,
+      "x2": 1338,
+      "y2": 790
+    },
+    "real_brick_default": {
+      "x1": 1288,
+      "y1": 748,
+      "x2": 1318,
+      "y2": 776
+    },
+    "virtual_brick_roi": {
+      "x1": 1384,
+      "y1": 1088,
+      "x2": 1438,
+      "y2": 1162
+    },
+    "virtual_brick_default": {
+      "x1": 1400,
+      "y1": 1106,
+      "x2": 1422,
+      "y2": 1148
+    }
+  }
+}

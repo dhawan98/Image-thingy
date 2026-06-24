@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+tmp_inspect/
+data/raw/
+outputs/
+outputs.zip
